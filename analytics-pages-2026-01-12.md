@@ -3,25 +3,25 @@ Property ID: 478143098
 Days: 90
 
 ## WYE
-1. [ ] `https://wye.com/` - 1,335 pageviews - [Last Audited: 2026-01-12]
+1. [x] `https://wye.com/` - 1,335 pageviews - [Last Audited: 2026-01-12]
 	- (pending) Elements must meet minimum color contrast ratio
-2. [ ] `https://wye.com/resources/intro-to-print-mis/` - 20 pageviews - [Last Audited: 2026-01-12]
+2. [x] `https://wye.com/resources/intro-to-print-mis/` - 20 pageviews - [Last Audited: 2026-01-12]
 	- Fixed footer heading hierarchy: Changed footer section headings from `<h4>` to `<h2>` with `h5` class for proper semantic structure
 	- Added ARIA labels to social media links in footer for better screen reader accessibility
 	- (pending) Elements must meet minimum color contrast ratio
-3. [ ] `https://wye.com/privacy-policy/` - 18 pageviews - [Last Audited: 2026-01-12]
+3. [x] `https://wye.com/privacy-policy/` - 18 pageviews - [Last Audited: 2026-01-12]
 	- (pending) Elements must meet minimum color contrast ratio
-4. [ ] `https://wye.com/blog/` - 6 pageviews - [Last Audited: 2026-01-12]
+4. [x] `https://wye.com/blog/` - 6 pageviews - [Last Audited: 2026-01-12]
 	- Noindex
-5. [ ] `https://wye.com/success-inquiry/` - 6 pageviews - [Last Audited: 2026-01-12]
+5. [x] `https://wye.com/success-inquiry/` - 6 pageviews - [Last Audited: 2026-01-12]
 	- Noindex
-6. [ ] `https://wye.com/ai/` - 5 pageviews - [Last Audited: 2026-01-12]
+6. [x] `https://wye.com/ai/` - 5 pageviews - [Last Audited: 2026-01-12]
 	- (pending) Elements must meet minimum color contrast ratio
-7. [ ] `https://wye.com/q/` - 1 pageviews - [Last Audited: 2026-01-12]
+7. [x] `https://wye.com/q/` - 1 pageviews - [Last Audited: 2026-01-12]
 	- (pending) Elements must meet minimum color contrast ratio
-8. [ ] `https://wye.com/careers/` - 5 pageviews - [Last Audited: 2026-01-12]
+8. [x] `https://wye.com/careers/` - 5 pageviews - [Last Audited: 2026-01-12]
 	- Noindex
-9. [ ] `https://wye.com/f/tenant` - 4 pageviews - [Last Audited: 2026-01-12]
+9. [x] `https://wye.com/f/tenant` - 4 pageviews - [Last Audited: 2026-01-12]
 	- Noindex
 
 ### Cares (wye.com/cares/)
@@ -110,34 +110,34 @@ Days: 90
 		- ![resources after](./screenshot-changes/CleanShot-2026-01-12-at-15.47.54.png)
 
 ### Sight (wye.com/sight/)
-1. [ ] `https://wye.com/sight/` - 34 pageviews - [Last Audited: 2026-01-12]
+1. [x] `https://wye.com/sight/` - 34 pageviews - [Last Audited: 2026-01-12]
 	- Added `aria-label="Wye Sight Home"` to logo link in header for screen reader accessibility
 	- Fixed `<main>` element structure by removing erroneous `</main>` tags from hero block templates (`hero-homepage.blade.php` and `hero-page.blade.php`) that were closing the main landmark prematurely, causing all content sections to render outside the main element
 	- (pending) Elements must meet minimum color contrast ratio
-2. [ ] `https://wye.com/sight/contact/` - 16 pageviews - [Last Audited: 2026-01-12]
+2. [x] `https://wye.com/sight/contact/` - 16 pageviews - [Last Audited: 2026-01-12]
 	- (pending) Elements must meet minimum color contrast ratio
-3. [ ] `https://wye.com/sight/products/jet-reports/` - 9 pageviews - [Last Audited: 2026-01-12]
+3. [x] `https://wye.com/sight/products/jet-reports/` - 9 pageviews - [Last Audited: 2026-01-12]
 	- (pending) Elements must meet minimum color contrast ratio
-4. [ ] `https://wye.com/sight/about/` - 8 pageviews - [Last Audited: 2026-01-12]
+4. [x] `https://wye.com/sight/about/` - 8 pageviews - [Last Audited: 2026-01-12]
 	- (pending) Elements must meet minimum color contrast ratio
-5. [ ] `https://wye.com/sight/support-pricing/` - 8 pageviews - [Last Audited: 2026-01-12]
+5. [x] `https://wye.com/sight/support-pricing/` - 8 pageviews - [Last Audited: 2026-01-12]
 	- (pending) Elements must meet minimum color contrast ratio
-6. [ ] `https://wye.com/sight/blog/what-is-microsoft-power-bi/` - 7 pageviews - [Last Audited: 2026-01-12]
+6. [x] `https://wye.com/sight/blog/what-is-microsoft-power-bi/` - 7 pageviews - [Last Audited: 2026-01-12]
 	- Fixed heading hierarchy: Changed "Table of Contents" heading from `<h4>` to `<h2>` to follow proper heading order (h1 → h2)
 	- Fixed Table of Contents JavaScript: Rewrote from jQuery to vanilla JS to resolve "jQuery is not defined" error on production
 	- Fixed TOC responsive behavior: Removed JavaScript that was removing `hidden` class, allowing CSS (`hidden lg:flex`) to control visibility properly
 	- Fixed TOC content: Excluded TOC's own "Table of Contents" heading from appearing as first link in the TOC list
 	- (pending) Elements must meet minimum color contrast ratio
-7. [ ] `https://wye.com/sight/contact-help-desk/` - 7 pageviews - [Last Audited: 2026-01-12]
+7. [x] `https://wye.com/sight/contact-help-desk/` - 7 pageviews - [Last Audited: 2026-01-12]
 	- (pending) Elements must meet minimum color contrast ratio
-8. [ ] `https://wye.com/sight/products/jet-analytics/` - 7 pageviews - [Last Audited: 2026-01-12]
+8. [x] `https://wye.com/sight/products/jet-analytics/` - 7 pageviews - [Last Audited: 2026-01-12]
 	- (pending) Elements must meet minimum color contrast ratio
-9. [ ] `https://wye.com/sight/resources/` - 7 pageviews - [Last Audited: 2026-01-12]
+9. [x] `https://wye.com/sight/resources/` - 7 pageviews - [Last Audited: 2026-01-12]
 	- Fixed heading order: Changed resource card category (e.g. "Brochure") from `<h5>` to `<span>` and card title from `<h4>` to `<p>` so they are not document headings; page outline is now only the h1 "Resources"
 	- (pending) Elements must meet minimum color contrast ratio
-10. [ ] `https://wye.com/sight/services/data-science-consulting/` - 6 pageviews - [Last Audited: 2026-01-12]
+10. [x] `https://wye.com/sight/services/data-science-consulting/` - 6 pageviews - [Last Audited: 2026-01-12]
 	- (pending) Elements must meet minimum color contrast ratio
 
 ### AI (wye.com/ai/)
-1. [ ] `https://wye.com/ai/` - 1 pageview
+1. [x] `https://wye.com/ai/` - 1 pageview
 	- (pending) Elements must meet minimum color contrast ratio
