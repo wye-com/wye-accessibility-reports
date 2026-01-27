@@ -17,9 +17,11 @@ Days: 90
 	- Noindex
 6. [ ] `https://wye.com/ai/` - 5 pageviews - [Last Audited: Date]
 	- (pending) Elements must meet minimum color contrast ratio
-7. [ ] `https://wye.com/careers/` - 5 pageviews - [Last Audited: Date]
+7. [ ] `https://wye.com/q/` - 1 pageviews - [Last Audited: Date]
+	- (pending) Elements must meet minimum color contrast ratio
+8. [ ] `https://wye.com/careers/` - 5 pageviews - [Last Audited: Date]
 	- Noindex
-8. [ ] `https://wye.com/f/tenant` - 4 pageviews - [Last Audited: Date]
+9. [ ] `https://wye.com/f/tenant` - 4 pageviews - [Last Audited: Date]
 	- Noindex
 
 ### Cares (wye.com/cares/)
