@@ -4,13 +4,23 @@ Days: 90
 
 ## WYE
 1. [ ] `https://wye.com/` - 1,335 pageviews - [Last Audited: Date]
+	- (pending) Elements must meet minimum color contrast ratio
 2. [ ] `https://wye.com/resources/intro-to-print-mis/` - 20 pageviews - [Last Audited: Date]
+	- Fixed footer heading hierarchy: Changed footer section headings from `<h4>` to `<h2>` with `h5` class for proper semantic structure
+	- Added ARIA labels to social media links in footer for better screen reader accessibility
+	- (pending) Elements must meet minimum color contrast ratio
 3. [ ] `https://wye.com/privacy-policy/` - 18 pageviews - [Last Audited: Date]
+	- (pending) Elements must meet minimum color contrast ratio
 4. [ ] `https://wye.com/blog/` - 6 pageviews - [Last Audited: Date]
+	- Noindex
 5. [ ] `https://wye.com/success-inquiry/` - 6 pageviews - [Last Audited: Date]
+	- Noindex
 6. [ ] `https://wye.com/ai/` - 5 pageviews - [Last Audited: Date]
+	- (pending) Elements must meet minimum color contrast ratio
 7. [ ] `https://wye.com/careers/` - 5 pageviews - [Last Audited: Date]
+	- Noindex
 8. [ ] `https://wye.com/f/tenant` - 4 pageviews - [Last Audited: Date]
+	- Noindex
 
 ### Cares (wye.com/cares/)
 1. [x] `https://wye.com/cares/` - 58 pageviews - [Last Audited: Date]
@@ -124,4 +134,8 @@ Days: 90
 	- Fixed heading order: Changed resource card category (e.g. "Brochure") from `<h5>` to `<span>` and card title from `<h4>` to `<p>` so they are not document headings; page outline is now only the h1 "Resources"
 	- (pending) Elements must meet minimum color contrast ratio
 10. [ ] `https://wye.com/sight/services/data-science-consulting/` - 6 pageviews - [Last Audited: Date]
+	- (pending) Elements must meet minimum color contrast ratio
+
+### AI (wye.com/ai/)
+1. [ ] `https://wye.com/ai/` - 1 pageview
 	- (pending) Elements must meet minimum color contrast ratio
