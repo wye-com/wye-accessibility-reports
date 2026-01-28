@@ -99,6 +99,8 @@ Days: 90
 		- ![print/pricing before](https://raw.githubusercontent.com/wye-com/themes-wye/master/docs/accessibility/wye-ga-top-pages/screenshot-changes/CleanShot-2026-01-12-at-15.18.27.png)
 	- after
 		- ![print/pricing after](https://raw.githubusercontent.com/wye-com/themes-wye/master/docs/accessibility/wye-ga-top-pages/screenshot-changes/CleanShot-2026-01-12-at-15.20.55.png)
+		- color contrast
+			- ![resources before](https://raw.githubusercontent.com/wye-com/themes-wye/master/docs/accessibility/wye-ga-top-pages/screenshot-changes/print-color-contrast.png)
 7. [x] `https://wye.com/print/your-questions/what-is-printvis/` - 46 pageviews - [Last Audited: 2026-01-12]
 	- ![your questions what is printvis](https://raw.githubusercontent.com/wye-com/themes-wye/master/docs/accessibility/wye-ga-top-pages/screenshot-changes/CleanShot-2026-01-12-at-15.23.03.png)
 8. [x] `https://wye.com/print/wye-us/wye-we-do-what-we-do/` - 43 pageviews - [Last Audited: 2026-01-12]
